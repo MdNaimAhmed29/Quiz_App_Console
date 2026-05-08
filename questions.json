@@ -1,0 +1,19 @@
+[
+  {
+    "questions_text":"What are Dolphine?",
+    "alternatives": ["fish", "mammal", "reptile", "bird"],
+    "correct_answer": 3
+  },
+
+  {
+    "questions_text":"What is occupise most of the earth's surface?",
+    "alternatives": ["bird", "water"],
+    "correct_answer": 2
+  },
+
+  {
+    "questions_text":"What is the largest mammal?",
+    "alternatives": ["elephant", "giraffe", "whale", "rhino"],
+    "correct_answer": 3
+  }
+]
